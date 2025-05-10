@@ -1,3 +1,8 @@
+"""
+Author: Saeed Soukiah
+Created on: 2025-05-10
+Version: 1.0
+"""
 import os
 import shutil
 import tkinter as tk
